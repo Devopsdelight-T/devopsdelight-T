@@ -32,3 +32,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devopsdelight-t&show_icons=true&locale=en&layout=compact" alt="devopsdelight-t" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devopsdelight-t&" alt="devopsdelight-t" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+Thanks for visiting the profile...Visit Again...
+![ThanksThankYouGIF](https://github.com/Devopsdelight-T/devopsdelight-T/assets/170061144/d6a923ef-0f18-4ba1-895f-6805353ceab7)
+
+![ComeBackSoonOkayWandaSykesGIF](https://github.com/Devopsdelight-T/devopsdelight-T/assets/170061144/2d81ac51-7bf0-4f04-bfb6-0161c72c2648)
+
+
