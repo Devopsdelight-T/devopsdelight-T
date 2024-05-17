@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in//company/devops-delight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/company/devops-delight" height="30" width="40" /></a>
 <a href="https://hashnode.com/@charanwrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@charanwrites" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devops-delight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devops-delight" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/DevopsDelight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devops-delight" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
